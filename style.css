@@ -1,0 +1,66 @@
+body{
+	bakcground-color: #E87A1A
+}
+
+section {
+	border: ipx solid #D61C76;
+	width 100%;
+	float: left;
+}
+
+div {
+	margin: 5px;
+	width: 50px;
+	height: 150px;
+}
+
+.left {
+	float: left;
+	background: #351BEE;
+}
+
+.right {
+	float: right;
+	background: #2BB3B9;
+}
+
+#pirmas{
+	display: inline-block;
+	background-color: #f18973;
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	padding: 15px 25px;
+}
+
+#antras{
+	display: inline-block;
+	background-color: #d5f4e6;
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	padding: 15px 25px;
+}
+
+#trecias{
+	display: inline-block;
+	background-color: #80ced6;
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	padding: 15px 25px;
+}
+
+#ketvirtas{
+	display: inline-block;
+	background-color: #fefbd8;
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	padding: 15px 25px;
+}
+section{
+   height: 800px;
+    background-color: #99ffcc;
+    padding: 30px;
+}
